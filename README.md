@@ -1,4 +1,4 @@
-# 📈 Quantitative Finance Projects
+#  Quantitative Finance Projects
 
 This repository documents my independent journey into quantitative finance and machine learning, focusing on:
 
