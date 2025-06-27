@@ -7,18 +7,18 @@ This repository documents my independent journey into quantitative finance and m
 - ML-based price direction prediction  
 - Numerical methods for financial PDEs
 
-🧠 **Goal:** Build a strong foundation in quantitative finance research and applied machine learning.
+ **Goal:** Build a strong foundation in quantitative finance research and applied machine learning.
 
 ---
 
-### 📚 Background & Skills
+###  Background & Skills
 
 - Completed IIT Kanpur’s intensive 1-month AI/ML course, building a strong foundation in machine learning concepts and Python programming.  
 - Currently applying this knowledge to quantitative finance projects involving stochastic modeling, volatility forecasting, and financial machine learning.
 
 ---
 
-### 💻 Programming Languages & Skills
+###  Programming Languages & Skills
 
 - Python (primary for quant modeling & ML)  
 - C and C++ (good understanding of core concepts like classes, inheritance, and OOP; currently refreshing skills)  
@@ -26,16 +26,16 @@ This repository documents my independent journey into quantitative finance and m
 
 ---
 
-### 🗓️ Timeline
+### 🗓 Timeline
 
 | Phase        | Duration           | Focus                                         |
 |--------------|--------------------|-----------------------------------------------|
-| 🔥 Grind Phase   | June → July 2025   | Core quant models, Python fluency, projects   |
-| ⚖️ Balanced Phase | Aug → Oct 2025    | Research depth, refinement, outreach          |
+|  Grind Phase   | June → July 2025   | Core quant models, Python fluency, projects   |
+|  Balanced Phase | Aug → Oct 2025    | Research depth, refinement, outreach          |
 
 ---
 
-### 📂 Project Structure
+###  Project Structure
 
 ```bash
 quant-projects/
